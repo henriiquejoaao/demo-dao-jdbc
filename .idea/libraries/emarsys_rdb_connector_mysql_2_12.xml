@@ -1,0 +1,29 @@
+<component name="libraryTable">
+  <library name="emarsys.rdb.connector.mysql_2.12" type="repository">
+    <properties maven-id="com.emarsys:rdb-connector-mysql_2.12:4e6e2e40">
+      <exclude>
+        <dependency maven-id="com.emarsys:rdb-connector-mysql_2.12" />
+        <dependency maven-id="com.emarsys:rdb-connector-common_2.12" />
+        <dependency maven-id="com.zaxxer:HikariCP" />
+        <dependency maven-id="org.reactivestreams:reactive-streams" />
+        <dependency maven-id="com.typesafe.slick:slick_2.12" />
+        <dependency maven-id="com.typesafe:ssl-config-core_2.12" />
+        <dependency maven-id="org.scala-lang.modules:scala-java8-compat_2.12" />
+        <dependency maven-id="com.typesafe.slick:slick-hikaricp_2.12" />
+        <dependency maven-id="com.typesafe.akka:akka-actor_2.12" />
+        <dependency maven-id="com.typesafe.akka:akka-stream_2.12" />
+        <dependency maven-id="com.typesafe:config" />
+        <dependency maven-id="org.scala-lang:scala-library" />
+        <dependency maven-id="org.scala-lang.modules:scala-parser-combinators_2.12" />
+        <dependency maven-id="org.slf4j:slf4j-api" />
+        <dependency maven-id="mysql:mysql-connector-java" />
+      </exclude>
+    </properties>
+    <ANNOTATIONS>
+      <root url="file://$USER_HOME$/Downloads/mysql-connector-j-8.3.0/mysql-connector-j-8.3.0" />
+    </ANNOTATIONS>
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
